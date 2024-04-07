@@ -1,0 +1,13 @@
+{
+  "name": "task-16",
+  "version": "1.0.0",
+  "description": "More Guests: You just found a bigger dinner table, so now more space is available. Think of three more guests to invite to dinner.",
+  "main": "index.js",
+  "type":"module",
+  "bin":"index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
